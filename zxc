@@ -3,11 +3,11 @@
 + git add (.): Adds changes to the staging area.
 + git commit -m: Commits changes to the repository.
 + git status: Shows the current status of the repository.
-git push: Pushes changes to a remote repository.
-git pull: Pulls changes from a remote repository.
-git branch (-d, -D): Shows the available branches in the repository.
-git checkout (-b, -t): Switches to a different branch.
-git merge: Merges changes from one branch into another.
++ git push: Pushes changes to a remote repository.
++ git pull: Pulls changes from a remote repository.
++ git branch (-d, -D): Shows the available branches in the repository.
++ git checkout (-b, -t): Switches to a different branch.
++ git merge: Merges changes from one branch into another.
 git reset (--soft, --hard): Resets the repository to a specific commit.
 git revert: Reverts a commit.
 git stash (pop): Stashes changes to work on later.
